@@ -1,4 +1,4 @@
-#  Name: Benny Shalom, ID: 203500780
+
 import asyncio
 import socket  # Server
 import threading
